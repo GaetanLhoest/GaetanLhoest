@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Skills
+- 🐍 Python level: Expert 
+- 💿 SQL level: Medium
+- ⛓️ DV level: Medium
+- 🤖 CI/CD level: Expert
+- 🐳 Docker level: Expert
+ 
+ ### Certifications
+ - ![](https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico) AWS Certified Solutions Architect – Associate
+ 
+ ### Badges
+ ![](https://www.codewars.com/users/GaetanLhoest/badges/micro)
