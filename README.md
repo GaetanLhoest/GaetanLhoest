@@ -24,5 +24,7 @@ Here are some ideas to get you started:
  ### Certifications
  - ![](https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico) AWS Certified Solutions Architect – Associate
  
+ ### Skills
+ [Exercism](https://exercism.org/profiles/GaetanLhoest)
  ### Badges
  ![](https://www.codewars.com/users/GaetanLhoest/badges/micro)
