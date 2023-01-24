@@ -26,5 +26,3 @@ Here are some ideas to get you started:
  
  ### Skills
  [Exercism](https://exercism.org/profiles/GaetanLhoest)
- ### Badges
- ![](https://www.codewars.com/users/GaetanLhoest/badges/micro)
